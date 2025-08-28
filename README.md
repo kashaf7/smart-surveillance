@@ -1,5 +1,5 @@
 # animal-detection-with-yolo
-# author : @akif
+# author : kashaf
 # date   : 2022-01-01
 # version : 1.0
 run app.py for animal web app
